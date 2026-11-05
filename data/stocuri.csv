@@ -1,0 +1,21 @@
+ID,CODP,DENUMIRE,CANTITATE,CANT_NORM,UNIT_MAS,PRET,DATA_ACHIZ,COND_SPEC,CODF
+1,ami1,Ami De Coeur Crewneck Sweater,8,10,buc,2500,04-Sep-2025,1,105
+2,ami2,White Wool Ami De Coeur Polo,200,25,buc,2800,04-Sep-2025,0,105
+3,ami3,White Ami De Coeur Cardigan,70,5,buc,3050,04-Sep-2025,0,105
+4,ami4,White Wool Ami De Coeur V Neck,300,50,buc,2950,04-Sep-2025,0,105
+5,ami5,AMI de Coeur Sweatshirt - Navy,120,85,buc,2500,04-Sep-2025,0,101
+6,ami6,Brown Double-Breasted Coat,50,20,buc,9975,04-Sep-2025,0,102
+7,ami7,Black Zipped Leather Jacket,70,30,buc,6525,01-Oct-2025,0,104
+8,ami8,AMI Wool Scarf - Grey,60,30,buc,395,01-Oct-2025,0,105
+9,ami9,Wool Double-Breasted Coat,50,20,buc,6400,01-Oct-2025,0,102
+10,ami10,AMI Chino Trousers - Khaki,200,70,buc,2700,01-Oct-2025,0,103
+11,ami11,AMI Leather Belt - Brown,70,15,buc,700,01-Oct-2025,0,104
+12,ami12,AMI Quilted Jacket - Olive,55,20,buc,2700,09-Sep-2025,0,102
+13,ami13,AMI Socks Pack 3 - Mixed,700,500,pck,250,09-Sep-2025,0,103
+14,ami14,AMI Cotton Shirt Striped,160,20,buc,1900,09-Sep-2025,0,103
+15,ami15,AMI Slim Fit Jeans - Dark Wash,130,70,buc,2900,12-Sep-2025,0,103
+16,ami16,AMI Cashmere Blend Sweater,40,15,buc,1400,09-Oct-2025,0,105
+17,ami17,AMI Rain Shell Jacket - Black,90,60,buc,3900,11-Sep-2025,0,101
+18,ami18,AMI Corduroy,95,50,buc,2000,03-Oct-2025,0,103
+19,ami19,AMI Suede Chelsea Boots,15,3,buc,4000,07-Oct-2025,0,104
+20,ami20,AMI Linen Summer Shirt - White,210,30,buc,2900,03-Oct-2025,0,103
